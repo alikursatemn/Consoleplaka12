@@ -1,0 +1,9 @@
+﻿  plksehir.cpp
+C:\Users\ALİ KÜRŞAT EMİN\Source\Repos\plksehir\plksehir\plksehir.cpp(11,52): warning C4566: '\u0131' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1252) temsil gösterilemiyor
+C:\Users\ALİ KÜRŞAT EMİN\Source\Repos\plksehir\plksehir\plksehir.cpp(13,31): warning C4566: '\u0131' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1252) temsil gösterilemiyor
+C:\Users\ALİ KÜRŞAT EMİN\Source\Repos\plksehir\plksehir\plksehir.cpp(15,74): warning C4566: '\u0131' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1252) temsil gösterilemiyor
+C:\Users\ALİ KÜRŞAT EMİN\Source\Repos\plksehir\plksehir\plksehir.cpp(16,59): warning C4566: '\u0131' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1252) temsil gösterilemiyor
+C:\Users\ALİ KÜRŞAT EMİN\Source\Repos\plksehir\plksehir\plksehir.cpp(16,82): warning C4566: '\u0131' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1252) temsil gösterilemiyor
+C:\Users\ALİ KÜRŞAT EMİN\Source\Repos\plksehir\plksehir\plksehir.cpp(16,92): warning C4566: '\u0131' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1252) temsil gösterilemiyor
+C:\Users\ALİ KÜRŞAT EMİN\Source\Repos\plksehir\plksehir\plksehir.cpp(17,12): warning C4566: '\u0131' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1252) temsil gösterilemiyor
+  plksehir.vcxproj -> C:\Users\ALİ KÜRŞAT EMİN\Source\Repos\plksehir\Debug\plksehir.exe
